@@ -19,3 +19,5 @@ KiepMouseSpeed -d 5
 Current mouse speed: 15
 New mouse speed: 10
 ```
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
